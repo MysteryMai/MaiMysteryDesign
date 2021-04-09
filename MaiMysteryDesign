@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Làm đẹp cùng MMD</title>
+    <link href="diendan.css" rel="stylesheet">
+</head>
+<body>
+   <div class="container456" >
+       <div class="header">
+        <div class="logo">
+            <img src="image/2499873.png" alt="Mai Mystery Design" style="height: 100px; width: 100px">
+        </div>
+        <div class="menu">
+            <a href="#">TRANG CHỦ</a>
+            <a href="#">MẸO LÀM ĐẸP</a>
+            <a href="#">MẸO TRANG ĐIỂM</a>
+            <a href="#">MẸO THỜI TRANG</a>
+            <a href="#" target="_self">BÍ QUYẾT GIẢM CÂN</a>
+        </div>
+       </div>
+        <div class="body456">
+            
+            <div class="content456">
+                    <div class="tag456">
+                        <div class="tag_lamdep">Làm đẹp</div>
+                        <div class="tag_trangdiem">Trang điểm</div>
+                    </div>
+                    <div class="title456">
+                        <h1>Những mẹo trang điểm cực hay các nàng cần “bỏ túi” ngay</h1>
+                    </div>
+                    <div class="title789" style="margin-right: 30px">
+                        <h3>Biết được những mẹo trang điểm sẽ giúp các nàng trang điểm dễ dàng và đẹp hơn lại tiết kiệm nhiều thời gian. Hãy tìm hiểu và lưu ý ngay bạn nhé!</h3>
+                    </div>
+                    <div class="summary">
+                        <div class="table_contents">Mục lục bài viết</div>
+                        <div class="list_content">
+                            <p>Hãy cùng Mai Mystery Design áp dụng ngay 30 mẹo trang điểm cực hay dưới đây các nàng nhé!</p>
+                            <ul>
+                                <li>1. Sử dụng muỗng khi dùng mascara</li>
+                                <li>2. Thoa má hồng phù hợp với gương mặt</li>
+                                <li>3. Sử dụng keo dáng để vẽ eyeliner và phấn mắt không bị lem</li>
+                                <li>4. Cách trang điểm che bọng mắt</li>
+                                <li>5. Highlight vùng mắt</li>
+                                <li>6. Cách chữa mascara bị khô</li>
+                                <li>7. Cách để có đôi môi mềm mịn</li>
+                                <li>8. Tránh lỗi sai khi vẽ lông mày</li>
+                                <li>9. Cách làm cho đôi mắt to hơn</li>
+                                <li>10. Cách vẽ mắt tự nhiên</li>
+                                <li>11. Cách lên màu mắt chuẩn và nổi bật</li>
+                                <li>12. Cách gắn mi giả dễ không bị rơi</li>
+                                <li>13. Cách uốn lông mi</li>
+                                <li>14. Làm nóng dụng cụ bấm mi</li>
+                                <li>15. Cách làm dày môi</li>
+                                <li>16. Dùng tấm danh thiếp để tránh bị lem mascara</li>
+                                <li>17. Bí mật giúp trang điểm mắt đẹp</li>
+                                <li>18. Cách tạo khối trang điểm</li>
+                                <li>19. Cách lựa chọn dáng chân mày phù hợp với gương mặt</li>
+                                <li>20. Cách tạo kem nền dưỡng ẩm</li>
+                                <li>21. Cách nâng cơ mắt</li>
+                                <li>22. Cách giữ son môi lâu trôi</li>
+                                <li>23. Cách gắn mi giả</li>
+                                <li>24. Cách làm mềm đường eyeline</li>
+                                <li>25. Lưu ý đến hạn sử dụng của mỹ phẩm</li>
+                            </ul>
+                            <p>Mai Mystery Design tin rằng với 25 mẹo trang điểm trên sẽ giúp bạn gái có được bước trang điểm nhanh và đẹp hơn! Cùng thử áp dụng ngay thôi nào!</p>
+                        </div>
+                    </div>
+                    <div class="content_main">
+                        <h3>1. Sử dụng muỗng khi dùng mascara</h3>
+                        <img src="image/buoc1.jpg" alt="Chuất mascara không lem với muỗng" style="height: auto">
+                        <p>Đừng để chải mascara cho vùng mi dưới dễ dàng mà không bị lem hay dính vào phần phấn mắt dưới, cách đơn giản nhất là sử dụng một chiếc muỗng đặt ngay bên dưới phần mi mắt dưới. Đây là mẹo trang điểm được rất nhiều chị em sử dụng vừa mang lại hiệu quả cao vừa cực đơn giản.</p>
+                        <br>
+                        <h3>2. Thoa má hồng phù hợp với gương mặt</h3>
+                        <img src="image/buoc2.jpg" alt="cách thoa má hồng với từng khuôn mặt" style="height: auto">
+                        <p>Đừng nghĩ phấn má hồng chỉ đơn giản giúp thêm màu sắc cho gương mặt, nếu bạn biết cách tán phấn má hồng phù hợp với hình dạng gương mặt của mình đây sẽ là điểm nhấn như tạo khối giúp gương mặt cuốn hút hơn. Cùng học cách thoa phấn má hồng với từng dạng gương mặt dưới đây bạn nhé!</p>
+                        <br>
+                        <h3>3. Sử dụng keo dáng để vẽ eyeliner và phấn mắt không bị lem</h3>
+                        <img src="image/buoc3.jpg" alt="cách vẽ eyeliner">
+                        <p>Một mẹo trang điểm cực đơn giản giúp bạn nhanh chóng có đường kẻ mắt đẹp mà không sợ lem đó là dáng đường băng keo nhỏ chéo theo đường vẽ eyeliner ở góc mắt ngoài. Bạn sẽ ngạc nhiên với mẹo nhỏ này mang lại đó!</p>
+                        <br>
+                        <h3>4. Cách trang điểm che bọng mắt</h3>
+                        <img src="image/buoc4.jpg" alt="trang điểm che bọng mắt">
+                        <p>Đa số mọi người đều thoa một lớp kem che khuyết điểm cho cả vùng mắt dưới. Tuy nhiên, để có được lớp trang điểm đẹp và che được bọng mắt tốt nhất, bạn nên highlight đường viền bọng mắt và sử dụng tông màu kem nền tối để thoa đều vùng bên trong bọng mắt. Cách này sẽ giúp bạn có đôi mắt trong veo, dấu nhẹm đi quầng thâm và đôi mắt mệt mỏi đó.</p>
+                        <br>
+                        <h3>5. Highlight vùng mắt</h3>
+                        <img src="image/buoc5.jpg" alt="trang điểm highlight mắt ">
+                        <p>Vị trí cần highlight đóng vai trò quan trọng tạo nên một đôi mắt đẹp tự nhiên. Tông màu sáng (gồm màu trắng, kem hay ánh nhũ ngọc trai) nên được thoa vào hốc mắt, giữa mi mắt và ngay dưới đuôi chân mày.</p>
+                        <br>
+                        <h3>6. Cách chữa mascara bị khô</h3>
+                        <img src="image/buoc6.jpg" alt="chữa khô mascara">
+                        <p>Mặc dù bạn cần thao mascara mỗi 3-4 tháng sử dụng, nhưng nếu mascara bị khô quá nhanh thì bạn có thể nhỏ 2 giọt nước nhỏ mắt ( của bất kì nhãn hiệu nào) vào chai  và sau đó khuấy đều. Thuốc nhỏ mắt giúp làm mềm dung dịch mascara, giúp nó trở lại thể lỏng như lúc mới mua.</p>
+                        <br>
+                        <h3>7. Cách để có đôi môi mềm mịn</h3>
+                        <img src="image/buoc7.jpg" alt="cách làm mềm môi">
+                        <p>Hãy sử dụng bàn chải đánh răng cho em bé, và chải nhẹ lên môi để giúp lấy đi lớp tế bào chết trên môi. Bạn cũng có thể tự làm tẩy tế bào chết cho môi từ đường nâu, mật ong hoặc dầu dừa.</p>
+                        <br>
+                        <h3>8. Tránh lỗi sai khi vẽ lông mày</h3>
+                        <img src="image/buoc8.jpg" alt="cách có một đôi lông mày đẹp tự nhiên">
+                        <p>Đôi chân mày đóng vai trò quan trọng cho vẻ đẹp và sự thanh thoát của gương mặt, nhưng đây lại là bước mà nhiều bạn mắt lỗi sai nhất. Lỗi thường gặp nhất chính là vẽ đầu chân mày quá vuông đều này khiến chân mày thiếu tự nhiên.</p>
+                        <br>
+                        <h3>9. Cách làm cho đôi mắt to hơn</h3>
+                        <img src="image/buoc9.png" alt="cách vẽ mắt to hơn">
+                        <p>Nếu bạn không có chì kẻ mắt màu nude, hãy đầu tư một em ngay nhe! Chắc chắn sẽ không khiến bạn thất vọng vì sẽ giúp đôi mắt bạn to hơn trông thấy khi kẻ viền mắt dưới. Ngoài ra, nếu bạn sở hữu làn da trắng thì chì kẻ mắt màu trắng sẽ là sự lựa chọn phù hợp cho bạn. Nến tránh kẻ đường viền mắt dưới màu đen vì điều này không chỉ khiến đôi mắt bạn trông nhỏ hơn mà còn khiến bạn trông già hơn đó.</p>
+                        <br>
+                        <h3>10. Cách vẽ mắt tự nhiên</h3>
+                        <img src="image/buoc10.jpg" alt="cách vẽ mắt trông tự nhiên">
+                        <p>Hãy vẻ đường kẻ mắt ở giữa lông mi, điều này sẽ giúp bạn trang điểm mà như không trông rất tự nhiên nhưng vẫn tạo được điểm nhấn cho đôi mắt.</p>
+                        <br>
+                        <h3>11. Cách lên màu mắt chuẩn và nổi bật</h3>
+                        <img src="image/buoc11.jpg" alt="cách lên màu mắt chuẩn">
+                        <p>Để giúp màu vẽ mắt đẹp hơn bạn chỉ cần thực hiện bước đơn giản là dùng chỉ kẻ mắt màu trắng tạo lớp nền trên bầu mắt trước khi trang điểm phấn mắt. Bạn sẽ ngạc nhiên vì hiệu quả mà mẹo trang điểm này mang lại đó.</p>
+                        <br>
+                        <h3>12. Cách gắn mi giả dễ không bị rơi</h3>
+                        <img src="image/buoc12.jpg" alt="cách gắn mi giả dễ dàng">
+                        <p>Gắn lông mi giả có thể gây cảm giác đau hay khó chịu cho một số người, chưa kể khiến bạn  tốn thời gian, dưới đây là cách gắn mi giả dễ và chắc:</p>
+                        <ul>
+                            <li>Sau khi uốn cong lông mi, bôi một lớp mỏng phấn phủ ( có thể dùng phấn em bé) trước khi áp dụng mascara (phía trên và dưới của lông mi).</li>
+                            <li>Áp dụng hai lớp mascara để phía dưới và phía trên của lông mi, nhưng phải đợi 3-5 phút ở giữa mỗi lớp, nếu không sẽ dễ làm dính mi.</li>
+                            <li>Khi áp dụng mascara hãy di chuyển mascara qua lại trong khi đi lên. Các chuyển động qua lại trái và phải sẽ đảm bảo mỗi sợi mi được bao phủ hoàn toàn</li>
+                            <li>Cuối cùng hãy kiểm tra hàng mi xem có bất kì khoảng trống nào hay không? nếu có hãy dùng mascara nhấn lại những nơi mà hàng mi trông thưa thớt. Hay tốt hơn, hãy sử dụng một bút kẻ mắt dạng lỏng để tinh chỉnh và điền vào các khoảng trống.</li>
+                        </ul>
+                        <br>
+                        <h3>13. Cách uốn lông mi</h3>
+                        <img src="image/buoc13.png" alt="cách uốn cong mi">
+                        <p>Bấm xuống nhẹ nhàng để dụng cụ kẹp lông mi lại. Giữ yên trong khoảng 10 – 15 giây, nhớ là không được run tay nhé ( nếu bạn bị run tay, có thể cố định cùi chỏ tay xuống một mặt phẳng vững chắc khi thực hiện).</p>
+                        <br>
+                        <h3>14. Làm nóng dụng cụ bấm mi</h3>
+                        <img src="image/buoc14.jpg" alt="cách làm nóng dụng cụ uốn mi">
+                        <p>Hãy để dụng cụ bấm mi trước máy sấy tóc khoảng 5 giây. Độ nóng này sẽ giúp giữ lông mi cong lâu cả ngày khi bấm mi đó.</p>
+                        <br>
+                        <h3>15. Cách làm dày môi</h3>
+                        <img src="image/buoc16.png" alt="cách làm dày môi ">
+                        <p>Dùng chì kẻ môi kẻ thêm đường viền môi giúp đôi môi dày hơn. Hãy đi theo các bước như hình dưới đây bạn nhé!</p>
+                        <br>
+                        <h3>16. Dùng tấm danh thiếp để tránh bị lem mascara</h3>
+                        <img src="image/buoc15.jpg" alt="cách không bị lem mascara">
+                        <p>Hãy giữ tấm danh thiếp để sát vào mi mắt và chải mascara.</p>
+                        <br>
+                        <h3>17. Bí mật giúp trang điểm mắt đẹp</h3>
+                        <img src="image/buoc17.png" alt="cách lên màu mắt đẹp">
+                        <p>Dùng bút chì vẽ mắt màu hồng dọc theo chiều dài của xương lông mày để tạo ra cảm giác giúp vòm chân mày cao hơn, và tán đều phấn mắt.</p>
+                        <br>
+                        <h3>18. Cách tạo khối trang điểm</h3>
+                        <img src="image/buoc18.png" alt="cách tạo khối cho khuôn mặt">
+                        <p>Hãy bỏ túi ngay cách tạo khối trang điểm cực hay dưới đây bạn nhé!</p>
+                        <br>
+                        <h3>19. Cách lựa chọn dáng chân mày phù hợp với gương mặt</h3>
+                        <img src="image/buoc19.jpg" alt="các kiểu chân mày với từng khuôn mặt">
+                        <br>
+                        <h3>20. Cách tạo kem nền dưỡng ẩm</h3>
+                        <img src="image/buoc20.png" alt="cách tạo kem nền dưỡng ẩm">
+                        <p>Để bạn có thể tạo được lớp nền đẹp và không làm da bị mất đi độ ẩm cũng như che khuyết điểm tốt, hãy trộn kem dưỡng ẩm và kem che khuyết điểm theo tỉ lệ 2:1 và thoa đều lên da mặt. Bạn sẽ ngạc nhiên với lớp nền đẹp mà bạn có được.</p>
+                        <br>
+                        <h3>21. Cách nâng cơ mắt</h3>
+                        <img src="image/buoc21.png" alt="cách nâng cơ mắt">
+                        <p>Một mẹo nhỏ giúp đôi mắt trông thanh thoát hơn đó là thoa kem che khuyết điểm lên phía trên phần đuôi chân mày.</p>
+                        <br>
+                        <h3>22. Cách giữ son môi lâu trôi</h3>
+                        <img src="image/buoc22.png" alt="cách giữ son môi lâu trôi">
+                        <p>Để giữ son môi lâu trôi hơn, sau khi thoa son môi, bạn hãy đặt một miếng khăn giấy mỏng lên trên và sau đó dùng cọ với phấn bột phủ lên môi, mẹo trang điểm này sẽ giúp son môi bám màu lâu hơn đó.</p>
+                        <br>
+                        <h3>23. Cách gắn mi giả</h3>
+                        <img src="image/buoc23.jpg" alt="cách gắn mi giả ">
+                        <p>Đầu tiên hãy thoa keo lên lông mi giả và đợi trong 45 giây, sau đó dùng hai ngón tay cầm ở giữa lông mi và gắn vào giữa mi mắt. Từ từ nhấn mi giả vào từ trước ra sau. Cuối cùng thêm mascara để giúp cố định và mẹo trang điểm này sẽ giúp bạn có hàng mi giả đẹp hơn.</p>
+                        <br>
+                        <h3>24. Cách làm mềm đường eyeline</h3>
+                        <img src="image/buoc24.png" alt="cách làm mềm đường kẻ eyeliner">
+                        <p>Thay vì để cho đường kẻ eyeliner quá dày khiến đôi mắt thiếu tự nhiên, bạn có thể kết hợp phấn mắt tông màu nâu đậm viền theo, điều này giúp đường eyeliner trông mềm mại hơn.</p>
+                        <br>
+                        <h3>25. Lưu ý đến hạn sử dụng của mỹ phẩm</h3>
+                        <img src="image/buoc25.png" alt="chú ý hạn sử dụng của mỹ phẩm">
+                        <p>Hãy nhớ hạn sử dụng của mỹ phẩm trước và sau khi mở là khác nhau bạn nhé!</p>
+                        <br>
+                    </div>
+            </div>
+            <div class="slide"></div>
+        </div> 
+   </div>
+   <div class="footer456">
+    <div class="logo_footer">
+        <img src="image/logo05-removebg-preview.png" alt="Mai Mystery Design" style="height: 130px; width: 130px;">
+    </div>
+    <h2>
+        VỀ CHÚNG TÔI:
+    </h2>
+    <h5>MaiMysteryDesign.vn là chuyên trang chia sẻ kiến thức miễn phí về Sức Khoẻ & Làm Đẹp. Chúng tôi hoạt động với sứ mệnh: TRUYỀN CẢM HỨNG & TẠO ĐỘNG LỰC nhằm mang đến cho mỗi người Việt Nam một SỨC KHOẺ & VẺ ĐẸP TOÀN DIỆN</h5>
+</div>  
+   </div>
+</body>
+</html>
